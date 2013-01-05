@@ -1,0 +1,6 @@
+# Generic files to ignore
+*~
+*.DS_Store
+
+# Specific files to ignore
+outline.md

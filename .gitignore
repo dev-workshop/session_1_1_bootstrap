@@ -3,4 +3,4 @@
 *.DS_Store
 
 # Specific files to ignore
-outline.md
+#outline.md

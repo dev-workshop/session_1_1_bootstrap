@@ -106,6 +106,12 @@
 - Typehead
 - Affix (sneaky sub-nav)
 
+=======
+##Extras
+- Bootbox
+- Fuel UX
+- Font Awesome
+
 [1]: view-source:http://twitter.github.com/bootstrap/examples/starter-template.html
 [2]: http://www.alistapart.com/articles/responsive-web-design/
 [3]: http://www.alistapart.com/articles/switchymclayout/
